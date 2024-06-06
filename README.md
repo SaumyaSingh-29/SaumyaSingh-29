@@ -1,22 +1,17 @@
-## Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E3DAFF&center=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hi%2C+there!+I'm+Saumya+Singh.;A+devotee+of++the+artistic+realm+%26++tech." width="70%" />
+<img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/wind%20chime.gif" height="485" width="300" align="right"/>
+<pre>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20">Languages: Python, C++, Html, CSS, Javascript 
+    💼 Development: • AI/ML • Full Stack
+    💻 Languages: • Python • C++ • HTML • CSS • Javascript 
+    📖 Tools/Frameworks: • Tensorflow •AWS • HuggingFace • Tableau
+    🎮 Interests: • Art • Anime • Code • Writing
+</pre>
+<img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/octocat-revolving.gif" height="230"/>
 
-![]([https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/octocat-revolving.gif](https://github.com/SaumyaSingh-29/SaumyaSingh-29/assets/171537697/0c1c8fe2-6c75-46e8-870f-1162fb74efa5))
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SaumyaSingh-29?cardType=github&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaumyaSingh-29&theme=nightowl&card_height=198)](https://git.io/streak-stats)
+</div>    
 
-
-
-
-
-![](https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/octocat-revolving.gif)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/bullet.gif"  height="180" width="1060"/>

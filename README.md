@@ -10,9 +10,9 @@
 </pre>
 <img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/octocat-revolving.gif" height="230"/>
 </div>    
+    
+<img width="40%" src="https://awesome-github-stats.azurewebsites.net/user-stats/SaumyaSingh-29?cardType=github&theme=nightowl&preferLogin=false" /> <img width="44%" src="https://github-readme-streak-stats.herokuapp.com?user=SaumyaSingh-29&theme=nightowl&card_height=198" /> 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SaumyaSingh-29?cardType=github&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaumyaSingh-29&theme=nightowl&card_height=198)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaumyaSingh-29&theme=darkhub)](https://github.com/SaumyaSingh-29/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SaumyaSingh-29&theme=darkhub)](https://github.com/SaumyaSingh-29/github-profile-trophy&no-frame=true)
 
 <img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/bullet.gif"  height="180" width="1060"/>

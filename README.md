@@ -15,4 +15,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaumyaSingh-29&theme=darkhub)](https://github.com/SaumyaSingh-29/github-profile-trophy&no-frame=true)
 
+<img src="https://github-profile-trophy.vercel.app/?username=SaumyaSingh-29&theme=darkhub&count_private=true&no-frame=true" alt="profile trophies" />
+
 <img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/bullet.gif"  height="180" width="1060"/>

@@ -11,7 +11,7 @@
 <img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/octocat-revolving.gif" height="230"/>
 </div>    
     
-<img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/SaumyaSingh-29?cardType=github&theme=nightowl&preferLogin=false" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=SaumyaSingh-29&theme=nightowl&card_height=198" /> 
+<img width="46%" src="https://awesome-github-stats.azurewebsites.net/user-stats/SaumyaSingh-29?cardType=github&theme=nightowl&preferLogin=false" /> <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=SaumyaSingh-29&theme=nightowl&card_height=198" /> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaumyaSingh-29&theme=darkhub)](https://github.com/SaumyaSingh-29/github-profile-trophy&no-frame=true)
 

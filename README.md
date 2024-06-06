@@ -6,7 +6,6 @@
     💼 Development: • AI/ML • Full Stack
     📖 Tools/Frameworks: • Tensorflow • AWS • HuggingFace • Tableau
     🎮 Interests: • Art • Anime • Code • Journaling • Basketball
-    :octocat::
 </pre>
 <img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/octocat-revolving.gif" height="230"/>
 </div>    

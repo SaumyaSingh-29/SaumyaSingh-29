@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E3DAFF&center=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hi%2C+there!+I'm+Saumya+Singh.;A+devotee+of++the+artistic+realm+%26++tech." width="70%" />
-<img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/wind%20chime.gif" height="485" width="300" align="right"/>
+<img src="https://github.com/SaumyaSingh-29/SaumyaSingh-29/blob/main/assets/wind%20chime.gif" height="450" width="300" align="right"/>
 <pre>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20">Languages: Python, C++, Html, CSS, Javascript 
     💼 Development: • AI/ML • Full Stack
